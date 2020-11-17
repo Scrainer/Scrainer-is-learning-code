@@ -1,0 +1,1 @@
+This is part of [Colt Steele's](https://github.com/Colt) Web Developer Bootcamp 2020 (Udemy). I don't own any of the images used in this project..
